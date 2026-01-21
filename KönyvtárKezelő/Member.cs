@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KönyvtárKezelő
 {
-    public class Memeber
+    public class Member
     {
         Console.WriteLine("Hello from Memeber class!");
     }
